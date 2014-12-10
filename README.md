@@ -29,7 +29,7 @@ Etc.
 
 Try to come up with the solution with as little steps as possible. 
 
-4) Do this at a larger scale with maybe ten students (Dr Wadee will give out multiple transcript for this)
+4) Do this at a larger scale with maybe ten students (Dr Wadee will give out multiple transcripts for this)
 
 5) Upload your solution onto this project and disucss each other's solutions 
 
