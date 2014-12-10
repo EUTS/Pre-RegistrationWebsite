@@ -5,7 +5,7 @@ Project under [Dr Wadee](https://github.com/wadeehalabi)
 
 This system has to do the following: 
 
-1) Check the four year plan and the student transcipt <br>
+1) Check the four year plan and the student transcript <br>
 2) recommend a schedule for the next semester <br>
 3) Assume all the courses are available  <br>
 4) Keep track of how many students are registered in each course <br>
@@ -31,7 +31,7 @@ Try to come up with the solution with as little steps as possible.
 
 4) Do this at a larger scale with maybe ten students (Dr Wadee will give out multiple transcripts for this)
 
-5) Upload your solution onto this project and disucss each other's solutions 
+5) Upload your solution onto this project and discuss each other's solutions 
 
 Some things to consider: 
 
