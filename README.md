@@ -1,4 +1,4 @@
 Pre-RegistrationWebsite
 =======================
 
-Project under Dr Wadee (@wadeehalabi) 
+Project under [Dr Wadee](https://github.com/wadeehalabi) 
