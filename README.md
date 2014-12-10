@@ -5,10 +5,11 @@ Project under [Dr Wadee](https://github.com/wadeehalabi)
 
 This system has do the following: 
 
-1) Check the four year plan and the student transcipt and recommend a schedule for the next semester <br>
-2) Assume all the courses are available  <br>
-3) Keep track of how many students are registered in each course <br>
-4) Keep track of how many sections there are for each course <br>
+1) Check the four year plan and the student transcipt <br>
+2) recommend a schedule for the next semester <br>
+3) Assume all the courses are available  <br>
+4) Keep track of how many students are registered in each course <br>
+5) Keep track of how many sections there are for each course <br>
 
 Your task till the end of this semster:
 
