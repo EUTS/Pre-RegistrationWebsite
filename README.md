@@ -11,7 +11,7 @@ This system has do the following:
 4) Keep track of how many students are registered in each course <br>
 5) Keep track of how many sections there are for each course <br>
 
-Your task till the end of this semster:
+First Task:
 
 1) Download the four year plan 
 
@@ -31,12 +31,14 @@ Try to come up with the solution with as little steps as possible.
 
 4) Do this at a larger scale with maybe ten students (Dr Wadee will give out multiple transcript for this)
 
+5) Upload your solution onto this project and disucss each other's solutions 
+
 Some things to consider: 
 
 1) A lower limit for each section/course. Ex. 10 <br>
 2) A higher limit for each section. Ex. 20 <br>
 3) Maximum number of credits the student has to take <br>
-4) Minumum number of credts the student has to take <br>
+4) Minimum number of credits the student has to take <br>
 5) The previous courses the student has taken (from the transcript) <br>
 
 
