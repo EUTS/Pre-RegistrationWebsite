@@ -5,10 +5,10 @@ Project under [Dr Wadee](https://github.com/wadeehalabi)
 
 This system has do the following: 
 
-1) Check the four year plan and the student transcipt and recommend a schedule for the next semester 
-2) Assume all the courses are available
-3) Keep track of how many students are registered in each course
-4) Keep track of how many sections there are for each course
+1) Check the four year plan and the student transcipt and recommend a schedule for the next semester <br>
+2) Assume all the courses are available  <br>
+3) Keep track of how many students are registered in each course <br>
+4) Keep track of how many sections there are for each course <br>
 
 Your task till the end of this semster:
 
@@ -21,7 +21,7 @@ Your task till the end of this semster:
 Ex. 
 
 	 Compare each course in the four year plan with the courses in the transcript 
-		If they are equal, consider that course as "Completed"
+	 If they are equal, consider that course as "Completed"
 
 
 Etc. 
@@ -32,10 +32,10 @@ Try to come up with the solution with as little steps as possible.
 
 Some things to consider: 
 
-1) A lower limit for each section/course. Ex. 10
-2) A higher limit for each section. Ex. 20
-3) Maximum number of credits the student has to take
-4) Minumum number of credts the student has to take
-5) The previous courses the student has taken (from the transcript)
+1) A lower limit for each section/course. Ex. 10 <br>
+2) A higher limit for each section. Ex. 20 <br>
+3) Maximum number of credits the student has to take <br>
+4) Minumum number of credts the student has to take <br>
+5) The previous courses the student has taken (from the transcript) <br>
 
 
