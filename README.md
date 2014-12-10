@@ -3,7 +3,7 @@ Pre-RegistrationWebsite
 
 Project under [Dr Wadee](https://github.com/wadeehalabi) 
 
-This system has do the following: 
+This system has to do the following: 
 
 1) Check the four year plan and the student transcipt <br>
 2) recommend a schedule for the next semester <br>
