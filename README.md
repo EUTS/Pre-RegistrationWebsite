@@ -41,6 +41,6 @@ Some things to consider:
 4) Minimum number of credits the student has to take <br>
 5) The previous courses the student has taken (from the transcript) <br>
 
-Codeing Stuff:
+Coding Stuff:
 
 To work on this project, you need to know HTML, CSS, Javascript and PHP. To get started with learning these languages, check out the post on the EUTS website [Getting Started With PHP](http://euts.github.io/web/development/resources/2014/12/03/Getting-Started-With-PHP.html)
