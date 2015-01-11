@@ -6,7 +6,7 @@ Project under [Dr Wadee](https://github.com/wadeehalabi)
 This system has to do the following: 
 
 1) Check the four year plan and the student transcript <br>
-2) recommend a schedule for the next semester <br>
+2) Recommend a schedule for the next semester <br>
 3) Assume all the courses are available  <br>
 4) Keep track of how many students are registered in each course <br>
 5) Keep track of how many sections there are for each course <br>
