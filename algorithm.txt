@@ -1,0 +1,26 @@
+Open course file 
+Open transcript file 
+While course file ends 
+{
+Read a single line from a course File (course eg: CS101)
+Save that into a String CC
+Read the transcript File
+FLAG is 0
+While transcript file ends               
+{ 
+Save that into a String TC
+IF (transcript course TC equals to course CC of course file)
+{
+Write CC completed 
+FLAG 1
+Break
+}
+  	}
+IF (FLAG equals to 0)
+{
+Print CC Incomplete
+}
+
+}
+Close course file 
+Close transcript file 
