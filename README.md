@@ -40,6 +40,14 @@ Some things to consider:
 3) Maximum number of credits the student has to take <br>
 4) Minimum number of credits the student has to take <br>
 5) The previous courses the student has taken (from the transcript) <br>
+6) The grade for each course on trasnscript
+
+Some algorithms for the system:
+
+1) If grade ==  fail
+	remove the course from transcript (i.e consider it not taken)
+2) Label each course High, Low, Middle priority based how many courses it is the pre-requisite for (ex. programming languages is a low priority because it isn't a pre-requisite for any course)
+3)If a section in two different course has the same students registered, make sure the sections do not clash. 
 
 Coding Stuff:
 
