@@ -44,11 +44,11 @@ Some things to consider:
 
 Some algorithms for the system:
 
-1) If grade ==  fail
-	remove the course from transcript (i.e consider it not taken)
-2) Label each course High, Low, Middle priority based how many courses it is the pre-requisite for (ex. programming languages is a low priority because it isn't a pre-requisite for any course)
-3)If a section in two different course has the same students registered, make sure the sections do not clash. 
+1) If grade ==  fail<br>
+	remove the course from transcript (i.e consider it not taken)<br>
+2) Label each course High, Low, Middle priority based how many courses it is the pre-requisite for (ex. programming languages is a low priority because it isn't a pre-requisite for any course)<br>
+3)If a section in two different course has the same students registered, make sure the sections do not clash. <br>
 
-Coding Stuff:
+Coding Stuff:<br>
 
 To work on this project, you need to know HTML, CSS, Javascript and PHP. To get started with learning these languages, check out the post on the EUTS website [Getting Started With PHP](http://euts.github.io/web/development/resources/2014/12/03/Getting-Started-With-PHP.html)
